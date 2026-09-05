@@ -1,0 +1,18 @@
+{
+  "single_hand": [
+    "pathaka_left",
+    "pathaka_right",
+    "tripathaka_left",
+    "tripathaka_right",
+    "alapadmam_left",
+    "alapadmam_right",
+    "mushti_left",
+    "mushti_right"
+  ],
+  "two_hand": [
+    "anjaly_both",
+    "swastikam_both"
+  ],
+  "record_time": 10,
+  "countdown": 5
+}
